@@ -9,6 +9,7 @@ import org.hibernate.Transaction;
 import com.excelr.BanerAfternoonHibernate.entity.Dept;
 import com.excelr.BanerAfternoonHibernate.entity.Employee;
 
+//git
 public class FetchTypeDemo {
 
 	public static void main(String[] args) {
